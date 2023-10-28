@@ -6,7 +6,7 @@ In this project, we are going to explore and examine trends in a HR Employee Att
 - seaborn==0.10.0
 
 The project contains 2 fiiles:
-1- IBM-HR-Analytics-Employee-Attrition/HR-Employee-Attrition.csv: IBM HR Analytics Employee Attrition & Performance dataset.
+1- IBM-HR-Analytics-Employee-Attrition/HR-Employee-Attrition.csv: IBM HR Analytics Employee Attrition dataset.
 2- IBM-HR-Analytics-Employee-Attrition/Employee_Attrition.ipynb: Notebook containing the data analysis.
 
 
