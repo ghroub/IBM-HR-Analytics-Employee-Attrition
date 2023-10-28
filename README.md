@@ -9,7 +9,9 @@ In this project, we are going to explore and examine trends in a HR Employee Att
 
 
 ## File Description
+
 The project contains 2 files:
+
 1- IBM-HR-Analytics-Employee-Attrition/HR-Employee-Attrition.csv: IBM HR Analytics Employee Attrition dataset.
 2- IBM-HR-Analytics-Employee-Attrition/Employee_Attrition.ipynb: A notebook containing the data analysis.
 
