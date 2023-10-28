@@ -1,6 +1,6 @@
 # IBM-HR-Analytics-Employee-Attrition & Performance
 
-In this project, we are going to explore and examine trends in a HR Employee Attrition dataset that is related to employee turnover in a company using the following python librarries:
+In this project, we are going to explore and examine trends in a HR Employee Attrition dataset that is related to employee turnover in a company using the following python libraries:
 - pandas==1.0.1
 - matplotlib==3.1.3
 - seaborn==0.10.0
