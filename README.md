@@ -5,6 +5,11 @@ In this project, we are going to explore and examine trends in a HR Employee Att
 - matplotlib==3.1.3
 - seaborn==0.10.0
 
+The project contains 3 fiiles:
+1- HR-Employee-Attrition.csv
+
+
+
 Some business questions we are going to answer are:
 
 What factors are contributing more to employee attrition?
